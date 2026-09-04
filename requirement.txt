@@ -1,4 +1,7 @@
 pandas
 streamlit
 plotly
-pillow 
+pillow
+seaborn
+matplotlib
+openpyxl
